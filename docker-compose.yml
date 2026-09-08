@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  # Add application and dependency services here.
+  # Example: vector database, redis, or app container.
+  placeholder:
+    image: busybox:latest
+    command: ["echo", "FinRAG Engine scaffold ready"]
