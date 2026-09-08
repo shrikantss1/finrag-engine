@@ -1,0 +1,7 @@
+# Add project dependencies here.
+# Example:
+# langchain
+# sentence-transformers
+# qdrant-client
+# fastapi
+# uvicorn
